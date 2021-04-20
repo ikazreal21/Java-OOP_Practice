@@ -1,6 +1,6 @@
 package vending;
 
-public class coins {
+public class Coins {
 
     private int dime;
     private int penny;

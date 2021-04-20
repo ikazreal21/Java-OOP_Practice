@@ -2,7 +2,7 @@ package vending;
 
 import javax.swing.JOptionPane;
 
-public class checkstock {
+public class Inventory {
 
     public void check(int prod1, int prod2, int prod3) {
         if (prod1 == 0 && prod2 != 0 && prod3 != 0) {

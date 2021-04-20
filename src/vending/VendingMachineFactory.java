@@ -2,7 +2,7 @@ package vending;
 
 import javax.swing.JOptionPane;
 
-public class manufacturer {
+public class VendingMachineFactory {
     public String name;
     public String product1;
     public String product2;
